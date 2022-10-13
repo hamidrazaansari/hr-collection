@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/hamidrazaansari/hr-collection.git/static/css/main.9bb76ff1.css",
+    "main.js": "/hamidrazaansari/hr-collection.git/static/js/main.ea871283.js",
+    "static/js/787.c5d93bc5.chunk.js": "/hamidrazaansari/hr-collection.git/static/js/787.c5d93bc5.chunk.js",
+    "static/media/background.jpg": "/hamidrazaansari/hr-collection.git/static/media/background.6939362cecd7f589bd7f.jpg",
+    "index.html": "/hamidrazaansari/hr-collection.git/index.html",
+    "main.9bb76ff1.css.map": "/hamidrazaansari/hr-collection.git/static/css/main.9bb76ff1.css.map",
+    "main.ea871283.js.map": "/hamidrazaansari/hr-collection.git/static/js/main.ea871283.js.map",
+    "787.c5d93bc5.chunk.js.map": "/hamidrazaansari/hr-collection.git/static/js/787.c5d93bc5.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9bb76ff1.css",
+    "static/js/main.ea871283.js"
+  ]
+}
